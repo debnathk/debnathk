@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=footer&text=Hi%20there&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=450&section=footer&text=Hi%20there&fontSize=80)
 
 <!--
 **debnathk/debnathk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
