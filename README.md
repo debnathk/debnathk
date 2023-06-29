@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **debnathk1997@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Apfj5jzpvnjMQDmibfPEY5-VL6SoQxil/view](https://drive.google.com/file/d/1Apfj5jzpvnjMQDmibfPEY5-VL6SoQxil/view)
+- 📄 Know about my experiences in my [Resume](https://drive.google.com/file/d/1yChiyVlGYegfgLb7PxLWo__2qBkwrE_2/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am hilarious!**
 
