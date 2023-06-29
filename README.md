@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kusal Debnath</h1>
-<h3 align="center">A Data Science Enthusiast from India</h3>
+<h3 align="center">A Bioinformatics Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debnathk&label=Profile%20views&color=0e75b6&style=flat" alt="debnathk" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debnathk" alt="debnathk" /></a> </p>
 
-- 🔭 I’m currently working on [OpenCV Video Capture](https://github.com/debnathk/OpenCV-Video-Capture)
+- 🔭 I’m currently working on [scRNA-Seq Analysis]
 
-- 💬 Ask me about **Machine Learning**
+- 💬 Ask me about **Bioinformatics**
 
 - 📫 How to reach me **debnathk1997@gmail.com**
 
