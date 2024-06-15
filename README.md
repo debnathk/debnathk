@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debnathk" alt="debnathk" /></a> </p> -->
 
-- 🔭 I’m currently working on [scRNA-Seq Analysis](https://github.com/debnathk/scRNA-Seq)
+- 🔭 I’m currently working on [Cancer Drug Repurposing](https://github.com/debnathk/drug_repurp)
 
 - 💬 Ask me about **Bioinformatics**
 
