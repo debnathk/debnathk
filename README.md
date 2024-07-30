@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kusal Debnath</h1>
-<h3 align="center">A Bioinformatics Enthusiast from India</h3>
+<h1 align="center">Hi 👋, I'm Kusal Debnath, a Drug Discovery Enthusiast</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debnathk&label=Profile%20views&color=0e75b6&style=flat" alt="debnathk" /> </p>
 
