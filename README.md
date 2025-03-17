@@ -4,9 +4,9 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debnathk" alt="debnathk" /></a> </p> -->
 
-- 🔭 I’m currently working on [Cancer Drug Repurposing](https://github.com/debnathk/gramseq)
+- 🔭 I’m currently working on [Drug-Target Affinity Prediction](https://github.com/debnathk/gramseq)
 
-- 💬 Ask me about **Bioinformatics**
+- 💬 Ask me about **Artificial Intelligence, Deep Learning & Drug Discovery**
 
 - 📫 How to reach me **debnathk1997@gmail.com**
 
