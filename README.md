@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **debnathk1997@gmail.com**
 
-- 📄 Know about my experiences in my [Resume](https://drive.google.com/file/d/1yChiyVlGYegfgLb7PxLWo__2qBkwrE_2/view?usp=sharing)
-
 - ⚡ Fun fact **I have a broken humour 💀**
 
 <h3 align="left">Connect with me:</h3>
