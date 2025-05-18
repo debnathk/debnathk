@@ -1,19 +1,3 @@
-# Hi there, I'm Kusal Debnath 👋
-
-<p align="center">
-  <img src="Kusal_D.jpg" alt="Kusal Debnath" width="200" style="border-radius:50%;"/>
-</p>
-
-<p align="center">
-  Richmond, VA 23220 · 
-  <a href="mailto:debnathkusal8@gmail.com">debnathkusal8@gmail.com</a> · 
-  +1 (804)-933-7613 <br/>
-  <a href="https://www.linkedin.com/in/debnathkusal221b/" target="_blank">LinkedIn</a> · 
-  <a href="https://github.com/debnathk/" target="_blank">GitHub</a>
-</p>
-
----
-
 ## 👨‍💻 About Me
 
 I am a Graduate Researcher specializing in AI-driven drug discovery, with expertise in Machine Learning (ML), Deep Learning (DL), Generative AI (Gen-AI), RNA-Seq analysis, and molecular docking. I have experience in de novo drug design and drug-target interaction (DTI) prediction modeling.
